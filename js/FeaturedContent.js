@@ -24,6 +24,55 @@ Used by ContentWidget.js in index.js to display the first 5 entries from the top
 
 export const Content = [
   {
+    "date": "2024-06-17",
+    "title": "Using Spectator Histogram and DDSketch for Advanced Statistical Analysis",
+    "name": "Reena Leone",
+    "link": "https://imply.io/blog/community-spotlight-using-netflix-spectator-histogram-kongs-ddsketch-apache-druid-advanced-statistical-analysis/",
+    "company": "Imply"
+  },
+  {
+    "date": "2024-04-29",
+    "title": "Monitoring Apache Druid in Grafana",
+    "name": "Beata Zawiślak",
+    "link": "https://www.deep.bi/blog/monitoring-apache-druid-in-grafana",
+    "company": "Deep.BI"
+  },
+  {
+    "date": "2024-03-29",
+    "title": "Getting up to Speed on Druid’s Performance, Ecosystem, and SQL Compliance",
+    "name": "Reena Leone",
+    "link": "https://imply.io/podcast/apache-druid-29-getting-up-to-speed-performance-ecosystem-sql-compliance-sergio-ferragut/",
+    "company": "Imply"
+  },
+  {
+    "date": "2023-11-25",
+    "title": "Druid Data Cookbook: Upserts in Druid SQL",
+    "name": "Hellmar Becker",
+    "link": "https://blog.hellmar-becker.de/2023/11/25/druid-data-cookbook-upserts-in-druid-sql/",
+    "company": "Imply"
+  },
+  {
+    "date": "2023-09-07",
+    "title": "New in Apache Druid 27: Querying Deep Storage",
+    "name": "Hellmar Becker",
+    "link": "https://blog.hellmar-becker.de/2023/09/07/new-in-apache-druid-27-querying-deep-storage/",
+    "company": "Imply"
+  },
+  {
+    "date": "2023-08-29",
+    "title": "Using Druid with MinIO",
+    "name": "Hellmar Becker",
+    "link": "https://blog.hellmar-becker.de/2023/08/29/using-druid-with-minio/",
+    "company": "Imply"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Indexes in Apache Druid",
+    "name": "Hellmar Becker",
+    "link": "https://blog.hellmar-becker.de/2023/06/28/indexes-in-apache-druid/",
+    "company": "Imply"
+  },
+  {
     "date": "2023-04-23",
     "title": "Multi-Value Dimensions in Apache Druid (Part 5)",
     "name": "Hellmar Becker",
